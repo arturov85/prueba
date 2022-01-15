@@ -1,3 +1,3 @@
 # prueba
-##editing the file
+## editing the file
 It is a markdown file in this repository
